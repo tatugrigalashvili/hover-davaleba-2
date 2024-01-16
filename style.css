@@ -1,0 +1,49 @@
+.border{
+    width: 378px;
+    height: 274px;
+    border: 1px solid #E0E0E0;
+    background-color: #F5F5F5;
+    margin-top: 142px;
+    margin-left: 451px;
+}
+
+input{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    color: #E0E0E0;
+    border: none;
+    margin-left: 20px;
+}
+label{
+    margin-left: 20px;
+    margin-top: 20px ;
+}
+button{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFD43A;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.email,.password{
+    margin-top: 20px;
+}
+
+.inputemail:hover{
+    border-radius: 4px;
+    border: 1px solid #BBB400;
+}
+.inputpassw:hover{
+    border-radius: 4px;
+    border: 1px solid #BBB400;
+}
+button:hover{
+    border-radius: 22.5px;
+    background-color: #BBB400;
+    color: #7C0000;
+    font-size: 20px;
+}
