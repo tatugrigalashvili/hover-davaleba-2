@@ -3,8 +3,8 @@
     height: 274px;
     border: 1px solid #E0E0E0;
     background-color: #F5F5F5;
-    margin-top: 142px;
-    margin-left: 451px;
+    
+    margin: auto;
 }
 
 input{
@@ -32,7 +32,7 @@ button{
 .email,.password{
     margin-top: 20px;
 }
-
+/*hover*/
 .inputemail:hover{
     border-radius: 4px;
     border: 1px solid #BBB400;
