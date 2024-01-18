@@ -1,10 +1,14 @@
+@font-face {
+    font-family: "fonti";
+    src: url("fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
 .border{
     width: 378px;
     height: 274px;
     border: 1px solid #E0E0E0;
     background-color: #F5F5F5;
-    
     margin: auto;
+    margin-top: 210px;
 }
 
 input{
@@ -15,10 +19,13 @@ input{
     color: #E0E0E0;
     border: none;
     margin-left: 20px;
+    padding-left: 10px;
+    font-family: "fonti";
 }
 label{
     margin-left: 20px;
     margin-top: 20px ;
+    font-family: "fonti";
 }
 button{
     width: 315px;
